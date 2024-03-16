@@ -35,10 +35,12 @@ jobs:
       run: |
         go install github.com/orangekame3/ghfetch@latest
         go install github.com/charmbracelet/vhs@latest
+        
     - name: Generate ghfetch gif with vhs
       run: |
         export GITHUB_TOKEN=${{ secrets.GH_PAT }}
         vhs < img/demo.tape
+        
     - name: Commit and push if there are changes
       run: |
         git add img/demo.gif
