@@ -44,7 +44,7 @@ jobs:
     - name: Commit and push if there are changes
       run: |
         git add img/demo.gif
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "llunaticsys@gmail.com"
+        git config --local user.name "Llunatics"
         git commit -m "Update ghfetch gif with vhs" -a || echo "No changes to commit"
         git push
