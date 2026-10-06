@@ -1,13 +1,19 @@
-## Llunatic
+<div align="center">
 
-Security enthusiast from Cilegon, Indonesia — working on threat intelligence, attack surface management (EASM), and local AI tooling.
+### Llunatic
 
-**Now**
+`threat intel` · `EASM` · `AI tooling`
 
-- Writing [llunatic-lab](https://lab.llunaticsys.web.id) — bilingual English/Indonesian cybersecurity notes, published 4× a week
-- Thesis research on External Attack Surface Management (EASM)
-- Building Hermes, a local AI agent stack (Muse → 9Router → Telegram)
+<br>
 
-**Elsewhere**
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776AB)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat&logo=gnubash&logoColor=4EAA25)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat&logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=F05032)
 
-[Blog](https://lab.llunaticsys.web.id) · [LinkedIn](https://linkedin.com/in/andiko-ramadani) · [Instagram](https://instagram.com/dkorm_) · [Facebook](https://facebook.com/llunaticsys)
+<br>
+
+[lab.llunaticsys.web.id](https://lab.llunaticsys.web.id)
+
+</div>
