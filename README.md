@@ -2,7 +2,9 @@
 
 ### Llunatic
 
-`threat intel` · `EASM` · `AI tooling`
+Mapping attack surfaces, building AI tools.
+
+`threat intel` · `EASM` · `cloud security` · `AI tooling`
 
 <br>
 
