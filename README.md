@@ -2,7 +2,7 @@
 
 ### Llunatic
 
-Mapping attack surfaces, building AI tools.
+just a cybersecurity student
 
 `threat intel` · `EASM` · `cloud security` · `AI tooling`
 
