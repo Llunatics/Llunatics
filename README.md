@@ -4,9 +4,7 @@
 
 just a cybersecurity student
 
-`threat intel` · `EASM` · `cloud security` · `AI tooling`
-
-<br>
+`threat intel` · `SOC` · `pentest` · `EASM` · `cloud security` · `network security` · `AI tooling`
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776AB)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=FCC624)
@@ -15,8 +13,6 @@ just a cybersecurity student
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=F05032)
 ![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat&logo=googlecloud&logoColor=4285F4)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=2496ED)
-
-<br>
 
 [lab.llunaticsys.web.id](https://lab.llunaticsys.web.id) · [linkedin](https://linkedin.com/in/andiko-ramadani)
 
