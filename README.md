@@ -4,7 +4,7 @@
 
 just a cybersecurity student
 
-`threat intel` · `SOC` · `pentest` · `EASM` · `cloud security` · `network security` · `AI tooling`
+`threat intel` · `SOC` · `pentest` · `EASM` · `cloud security` · `network security`
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776AB)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=FCC624)
